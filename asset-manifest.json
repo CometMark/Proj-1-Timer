@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Proj-1-Timer/static/css/main.dddc78f4.chunk.css",
+    "main.js": "/Proj-1-Timer/static/js/main.614e281f.chunk.js",
+    "main.js.map": "/Proj-1-Timer/static/js/main.614e281f.chunk.js.map",
+    "runtime-main.js": "/Proj-1-Timer/static/js/runtime-main.555e8682.js",
+    "runtime-main.js.map": "/Proj-1-Timer/static/js/runtime-main.555e8682.js.map",
+    "static/js/2.f4720517.chunk.js": "/Proj-1-Timer/static/js/2.f4720517.chunk.js",
+    "static/js/2.f4720517.chunk.js.map": "/Proj-1-Timer/static/js/2.f4720517.chunk.js.map",
+    "static/js/3.4685b02d.chunk.js": "/Proj-1-Timer/static/js/3.4685b02d.chunk.js",
+    "static/js/3.4685b02d.chunk.js.map": "/Proj-1-Timer/static/js/3.4685b02d.chunk.js.map",
+    "index.html": "/Proj-1-Timer/index.html",
+    "static/css/main.dddc78f4.chunk.css.map": "/Proj-1-Timer/static/css/main.dddc78f4.chunk.css.map",
+    "static/js/2.f4720517.chunk.js.LICENSE.txt": "/Proj-1-Timer/static/js/2.f4720517.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Proj-1-Timer/static/media/pattern-hills.815d688f.svg",
+    "static/media/icon-facebook.a9208377.svg": "/Proj-1-Timer/static/media/icon-facebook.a9208377.svg",
+    "static/media/icon-instagram.b94ff26a.svg": "/Proj-1-Timer/static/media/icon-instagram.b94ff26a.svg",
+    "static/media/icon-pinterest.ea0db8e7.svg": "/Proj-1-Timer/static/media/icon-pinterest.ea0db8e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.555e8682.js",
+    "static/js/2.f4720517.chunk.js",
+    "static/css/main.dddc78f4.chunk.css",
+    "static/js/main.614e281f.chunk.js"
+  ]
+}
