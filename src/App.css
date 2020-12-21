@@ -1,0 +1,28 @@
+
+.App-header {
+  z-index: 1;
+  background: url("./images/pattern-hills.svg") bottom center no-repeat;
+  min-height: 97vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+
+}
+
+.bg{
+  background-image: url("./images/bg-stars.svg");
+  background-color: hsl(234, 17%, 12%);
+}
+
+@media(max-width:375px){
+
+  .App-header {
+    margin-right: 10px;
+    min-height: 96vh;
+  }
+
+  
+}

@@ -1,0 +1,77 @@
+p{
+  font-size: 15px;
+}
+
+img{
+  padding: 10px;
+  margin-left: 50px;
+}
+
+img:hover{
+  border-radius: 10px;
+  background-color:hsl(345, 95%, 68%);
+}
+
+footer{
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
+
+h1{
+  font-family: 'Red Hat Text', sans-serif;
+}
+
+.timerH1{
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding:30px;
+    background-color: hsl(236, 21%, 26%);
+    border-radius: 10px;
+    margin: 10px ;
+    color:hsl(345, 95%, 68%);
+}
+
+.timer{
+  position: absolute;
+  top: 15%;
+  width: 100%;
+  padding: 10px;
+}
+
+.blocks{
+  display: inline-block;
+  font-family: 'Red Hat Text', sans-serif;
+  font-weight: 700;
+  color: hsl(237, 18%, 59%);
+}
+
+@media(max-width:375px){
+  .timerH1{
+  padding:10px;
+  }
+  .timer{
+    display: inline-block;
+    width: 100%;
+    position: absolute;
+    left: -10px;
+  }
+
+  .table{
+    width: 100%;
+    position: absolute;
+    left: 15px;
+    display: inline-flex;
+  }
+  
+  img{
+    margin: 10px 10px;
+  }
+
+  footer{
+    position: absolute;
+    bottom: 50px;
+  }
+ 
+ }
